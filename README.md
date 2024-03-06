@@ -12,9 +12,9 @@
 
 - 👦 Staff: https://soyalexclient.ml **Maintenance**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/iipforwarding?tab=repositories) or [Discord](https://dsc.gg/alexclient)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/redrkn?tab=repositories) or [Discord](https://dsc.gg/alexclient)
 
-- 📫 You can reach me by adding **trashcodex on [Discord](https://dsc.gg/alexclient)** **Maintenance**
+- 📫 You can reach me by adding **ipforwarding on [Discord](https://dsc.gg/alexclient)** **Maintenance**
 
 
 ![ipforward](https://discord.c99.nl/widget/theme-5/653705236631912458.png)
