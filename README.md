@@ -1,6 +1,6 @@
 <!-- https://github.com/rdrkn/ -->
 
-<h1 align="center">Hi 👋 I'm AlexClient</h1>
+<h1 align="center">Hi 👋 I'm Alex</h1>
 <h3 align="center"> I categorize myself as a programmer and a person who knows programming and I am part of the United States</h3>
 
 
@@ -17,7 +17,7 @@
 - 📫 You can reach me by adding **ipforwarding on [Discord](https://dsc.gg/alexclient)** **Maintenance**
 
 
-![ipforward](https://discord.c99.nl/widget/theme-5/653705236631912458.png)
+![ipforward](https://discord.c99.nl/widget/theme-5/381816029426221057.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
