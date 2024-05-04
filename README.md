@@ -17,7 +17,7 @@
 - 📫 You can reach me by adding **ipforwarding on [Discord](https://dsc.gg/alexclient)** **Maintenance**
 
 
-![ipforward](https://discord.c99.nl/widget/theme-4/381816029426221057.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
