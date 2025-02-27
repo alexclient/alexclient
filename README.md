@@ -12,7 +12,7 @@ Soy **AlexClient**, un pibe que le gusta la programación y aprender cosas nueva
 # ``🗂 Lenguajes``
 Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 
-![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=java) ![My Skill](https://skillicons.dev/icons?i=bash) ![My Skill](https://skillicons.dev/icons?i=golang) ![My Skill](https://skillicons.dev/icons?i=c) ![My Skill](https://skillicons.dev/icons?i=cs) ![My Skill](https://skillicons.dev/icons?i=cpp) ![My Skill](https://skillicons.dev/icons?i=gradle)
+![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=java) ![My Skill](https://skillicons.dev/icons?i=bash) ![My Skill](https://skillicons.dev/icons?i=golang) ![My Skill](https://skillicons.dev/icons?i=c) ![My Skill](https://skillicons.dev/icons?i=cs) ![My Skill](https://skillicons.dev/icons?i=cpp) ![My Skill](https://skillicons.dev/icons?i=gradle) ![My Skill](https://skillicons.dev/icons?i=php) ![My Skill](https://skillicons.dev/icons?i=py)
  
 
 
