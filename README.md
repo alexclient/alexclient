@@ -20,7 +20,7 @@ Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 # ``🗂 Herramientas``
 Estos son algunas herramientas que uso cada día, o los que he usado y sé usar lo avanzado/basico.
 
-![My Skill](https://skillicons.dev/icons?i=intellij) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord) ![My Skill](https://skillicons.dev/icons?i=blender)
+![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord)
  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
