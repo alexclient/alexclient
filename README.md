@@ -1,37 +1,37 @@
 
 ---
-# ``🌎 Hola Mundo``
+# ``🌎 Hello World``
 <img align='right' src="https://i.imgur.com/168bfMM.jpeg" width="70">
 
-Soy **AlexClient**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Expert Developer.``
+I'm **AlexClient**, a guy who likes programming and learning new things, who now knows a little bit of coding and that's why he is ``📚 Expert Developer.``
 
-* Desarrollador web Backend y Front-end.
-* Desarrollador de bots de discord.
-* Desarollador de Software
+* Backend and Front-end web developer.
+* Developer of discord bots.
+* Software Developer
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
 
-# ``🗂 Lenguajes``
-Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
+# ``🗂 Learning:``
+These are some of the languages I know to date.
 
 ![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=java) ![My Skill](https://skillicons.dev/icons?i=bash) ![My Skill](https://skillicons.dev/icons?i=golang) ![My Skill](https://skillicons.dev/icons?i=c) ![My Skill](https://skillicons.dev/icons?i=cs) ![My Skill](https://skillicons.dev/icons?i=cpp) ![My Skill](https://skillicons.dev/icons?i=gradle) ![My Skill](https://skillicons.dev/icons?i=php) ![My Skill](https://skillicons.dev/icons?i=py)
  
 
 
 
-# ``🗂 Herramientas``
-Estos son algunas herramientas que uso cada día, o los que he usado y sé usar lo avanzado/basico.
+# ``🗂 Tools``
+These are some of the tools that I use every day, or those that I have used and know how to use the advanced/basic.
 
 ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord)
  
 
 
-# ``📣 Contactos``
-Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer. Puedo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.
+# ``📣 Contacts``
+You can contact me by some of these means or see some things I know how to do. I can collaborate in anything I can and if it is work much better.
 
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/381816029426221057) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/AlexClient) [![My Skill](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alexclient.01/) 
 
 
 ---
 
-* [🌐 Sitio Web](https://alexclient.shop/) para mas info...
+* [🌐 Sitio Web](https://alexclient.shop/) for more info...
