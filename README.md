@@ -23,14 +23,12 @@ Estos son algunas herramientas que uso cada día, o los que he usado y sé usar 
 ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord)
  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
-
 
 # ``📣 Contactos``
 Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer. Puedo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.
 
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/381816029426221057) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/AlexClient) [![My Skill](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alexclient.01/) 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
 ---
 
 * [🌐 Sitio Web](https://alexclient.shop/) para mas info...
