@@ -3,7 +3,7 @@
 # ``🌎 Hola Mundo``
 <img align='right' src="https://i.imgur.com/168bfMM.jpeg" width="70">
 
-Soy **AlexClient**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Junior Developer.``
+Soy **AlexClient**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Expert Developer.``
 
 * Desarrollador web.
 * Desarrollador de bots de discord.
