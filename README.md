@@ -5,9 +5,9 @@
 
 Soy **AlexClient**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Expert Developer.``
 
-* Desarrollador web.
+* Desarrollador web Backend y Front-end.
 * Desarrollador de bots de discord.
-* Diseñador grafico.
+* Desarollador de Software
 
 # ``🗂 Lenguajes``
 Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
